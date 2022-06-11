@@ -1,0 +1,1 @@
+(function ($, window) {    'use strict';     $('.select_quiz_questions').select2(         {             placeholder: "Select questions",             allowClear: true         }     );})(jQuery, window);
